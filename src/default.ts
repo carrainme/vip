@@ -7,11 +7,6 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `
-
-- 特感谢 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 和 [Vercel](http://vercel.com/) 提供支持。
-
-- 本站由 [宫笑白]搭建。
-
-- 想要部署的朋友，可关注公众号：**PLATO对话**，添加我个人微信获取保姆级部署文档，
+- 欢迎来到待开的网页，我只做chatgpt问答转发，仅供娱乐和学习，在输入框输入你的问题吧
 
 - **Shift+Enter** 换行。开头输入 **/** 或者 **空格** 搜索 Prompt 预设。点击输入框滚动到底部。`
